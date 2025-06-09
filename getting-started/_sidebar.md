@@ -1,2 +1,3 @@
 - Getting Started
-  - [Installations](./Installations.md)
+  - [Installations and Signups](./Installations.md)
+  - [Zoom Guidelines](./Zoom.md)

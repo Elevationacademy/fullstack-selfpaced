@@ -16,11 +16,10 @@ In this project we will practice building a static website with vanilla HTML & C
 
 Implement a responsive design that works on mobile and desktop based on the following images
 
-<a href="/intro-web-dev/project-personal-portfolio/img/portfolio-desktop.png" target="_blank">Desktop Version</a>
+testttt
+<a href="./img/portfolio-desktop.png" target="_blank">Desktop Version</a>
 
-<a href="/intro-web-dev/project-personal-portfolio/img/portfolio-mobile.png" target="_blank">Mobile Version</a>
-
-
+<a href="./img/portfolio-mobile.png" target="_blank">Mobile Version</a>
 
 ## Guidelines
 - Use only vanilla HTML and CSS (no frameworks or libraries)

@@ -1,4 +1,4 @@
-## Intro
+# CSS Basics
 
 In this lesson we will cover:
 

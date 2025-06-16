@@ -1,3 +1,5 @@
+# Display
+
 Remember the difference between **block** and **inline** elements?
 
 Say we had a simple `div` in our HTML, and this was the styling we used:

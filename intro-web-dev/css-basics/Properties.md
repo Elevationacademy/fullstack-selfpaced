@@ -1,4 +1,4 @@
-## CSS Properties
+# Properties
 
 We use CSS **properties** to define what styling to apply to our elements.
 

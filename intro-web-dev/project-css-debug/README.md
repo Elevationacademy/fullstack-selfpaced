@@ -5,7 +5,7 @@ In this project you will expirence how it feels like to debug CSS.
 🚨 **Spoiler Alert** 🚨\
 It doesn't feel that good.\
 Until... you find the bugs and start feeling that you understand CSS and transform into a "bring it on" mood 🦍
-![Family Guy](./img/css-family-guy.gif)
+![Family Guy](./img/css-family-guy.gif ':size=50%')
 
 
 ## Fixed Version
@@ -19,7 +19,7 @@ This is the design you need to achieve. You have it here both as an image (2 ima
 
 
 ## Starting Point
-Download the starting point project from [here]().
+Download the starting point project from [here](https://github.com/Elevationacademy/css-debug-project).
 
 
 ## Guidlines

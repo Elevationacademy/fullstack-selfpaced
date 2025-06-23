@@ -1,5 +1,5 @@
 - Git Basics
-  - [Intro Version Control](./Intro.md)
+  - [Intro Version Control](./Intro.md "Git Basics")
   - [Installing Git](./InstallingGit.md)
   - [Setup](./Setup.md)
   - [Creating a Local Repository](./CreatingaLocalRepository.md)

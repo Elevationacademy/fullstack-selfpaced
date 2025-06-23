@@ -1,0 +1,13 @@
+- Git Basics
+  - [Intro Version Control](./Intro.md)
+  - [Installing Git](./InstallingGit.md)
+  - [Setup](./Setup.md)
+  - [Creating a Local Repository](./CreatingaLocalRepository.md)
+  - [Tracking Files](./TrackingFiles.md)
+  - [Github](./Github.md)
+  - [Making Changes](./MakingChanges.md)
+  - [Going Backwards](./GoingBackwards.md)
+  - [Cloning](./Cloning.md)
+  - [Cheat Sheet](./CheatSheet.md)
+  - [Practice](./Practice.md)
+

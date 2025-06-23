@@ -72,6 +72,14 @@ Create a webpage with a recipe for your favorite dish. Make sure to use at least
 ![](./img/ex-6.png ':size=75%')
 
 ## Excersie 7
+Create a page with an image on the body. 
+Add 2 titles:
+1. transparent title. Note that the text and the element itself should be transparent.
+2. Another title, that should not show any of the image underneath it.
+
+![](./img/ex-7.png ':size=75%')
+
+## Excersie 8
 Add style to all your HTML exercises from the previuos chapter. Following see examples of where you should aim to. It is a good idea to try and make it as similar as possible. Gain progress here as time permits, the more you practice the better CSS developer you become :)
 
 #### Example - Ex1 Personal Introduction

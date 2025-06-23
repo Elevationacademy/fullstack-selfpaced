@@ -1,0 +1,5 @@
+- Web Debugger Basics
+  - [Overview](./Overview.md "Web Debugger Basics")
+  - [Accessing DevTools](./Accessing_DevTools.md)
+  - [Elements](./Elements.md)
+  - [Exercises](./Exercises.md)

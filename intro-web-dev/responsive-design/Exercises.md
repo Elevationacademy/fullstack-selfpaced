@@ -56,3 +56,8 @@ In this exercise you will be creating a responsive product card component. Note 
 
 **Small screens (less than 600px)** \
 ![](./img/product-card-small.png ':size=50%')
+
+## Exercise 6 - Bonus
+Repeat the previuos exercise (responsive product card component) but this time using [tailwindcss](https://tailwindcss.com/) and zero css of your own.
+
+Learn tailwindcss by yourself. Enable it in your website using the [Play CDN](https://tailwindcss.com/docs/installation/play-cdn) installation option.

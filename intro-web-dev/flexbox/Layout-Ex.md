@@ -1,7 +1,7 @@
 # Exercises
 
 ## Exercise 1
-Create a "holy grid" layout using flexbox. Make sure that the footer is sticky. Meaning that when the content is long you need to scroll down to see the footer. When the content is short the footer will be at the bottom of the viewport.
+Create a "holy grail" layout using flexbox. Make sure that the footer is sticky. Meaning that when the content is long you need to scroll down to see the footer. When the content is short the footer will be at the bottom of the viewport.
 
 ![](./img/holy-grail-layout.png ':size=75%')
 

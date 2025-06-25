@@ -12,8 +12,9 @@ Until... you find the bugs and start feeling that you understand CSS and transfo
 This is the design you need to achieve. You have it here both as an image (2 images, since scrolling is needed) and also as a gif showing it live in the browser with scrolling and hover effects.
 
 
-[Fixed Version Top](/intro-web-dev/project-css-debug/img/fixed-version-top.png ':ignore :target=_blank')\
-[Fixed Version Bottom](/intro-web-dev/project-css-debug/img/fixed-version-bottom.png ':ignore :target=_blank')
+<a href="./intro-web-dev/project-css-debug/img/fixed-version-top.png" target="_blank">Fixed Version Top</a>
+
+<a href="./intro-web-dev/project-css-debug/img/fixed-version-bottom.png" target="_blank">Fixed Version Bottom</a>
 
 ![Fixed Version GIF](./img/css-debug-project-fixed.gif)
 

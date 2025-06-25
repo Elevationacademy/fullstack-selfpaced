@@ -1,6 +1,15 @@
 # Exercises
 
 ## Exercise 1
+Place texts on the 4 corners of an image.
+
+- Make the image responsive (place the image inside a container)
+- Center the image (using `margin: auto;`)
+- The texts should stay in the corner when the image is resized
+
+![](./img/texts-on-image.gif)
+
+## Exercise 2
 Create the following:
 
 ![](./img/ex1.PNG)
@@ -21,7 +30,7 @@ Click here to get a hint on the HTML structure (try without it first)
 </details>
 
 
-## Exercise 2
+## Exercise 3
 Create the following:
 
 ![](./img/ex2.PNG)
@@ -48,7 +57,7 @@ Click here to get a hint on the HTML structure (try without it first)
 </details>
 
 
-## Exercise 3
+## Exercise 4
 Create the following:
 
 ![](./img/ex3.PNG)

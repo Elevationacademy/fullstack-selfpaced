@@ -11,6 +11,13 @@ This is the IDE we will be using during the bootcamp. It is the most popular IDE
 
 Download it [here](https://code.visualstudio.com/download).
 
+#### Extensions
+VS Code has great extensions we will be using in our bootcamp. Start with installing the following ones:
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Local server for easily running websites locally
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Code formatter
+- [GitHub Copilt](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) - AI coding assistant
+- [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) - Adding nice icons to your files and folders
+
 ## Git
 Just like everyone, also we will be using git for version control. Download and install it from [here](https://git-scm.com/downloads).
 

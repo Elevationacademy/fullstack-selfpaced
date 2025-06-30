@@ -60,3 +60,8 @@ To complete the above you will need to create both the `increaseByNameLength` an
 
 You should be able to write the body of both functions in one line; there's no trick here - it's just practice.
 
+## Exercise 6
+
+An **Armstrong number** is a number that is the sum of its own digits each raised to the power of the number of digits. For example, 153 is an Armstrong number because 153 = 1³ + 5³ + 3³ (1 + 125 + 27 = 153). 
+
+Print all 3-digit Armstrong numbers.

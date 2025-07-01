@@ -166,7 +166,7 @@ Read over it, then complete the `makeDrink` method so that it:
 
   
 
-## EXERCISE 6.1
+## Exercise 6.1
 
   
 

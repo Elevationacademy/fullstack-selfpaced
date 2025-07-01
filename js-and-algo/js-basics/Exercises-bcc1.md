@@ -66,7 +66,7 @@ Run the code once with `const name = 'Bob';` and then with `const name = 'Ted';`
 The above code is a reservation system where people can claim their reservations when they arrive.
 
 
--   If the reservation exists and is unclaimed, welcome the user (console log or use [alert](https://www.w3schools.com/jsref/met_win_alert.asp))
+-   If the reservation exists and is unclaimed, welcome the user (console log)
 -   If the reservation exists and is already claimed, inform the user about the situation
 -   If there is no reservation, tell the user there is nothing under their name
 

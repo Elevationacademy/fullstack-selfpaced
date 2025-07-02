@@ -18,6 +18,8 @@ Implement a responsive design that works on mobile and desktop based on the foll
 
 <a href="./intro-web-dev/project-personal-portfolio/img/portfolio-desktop.png" target="_blank">Desktop Version</a>
 
+[Figma design for desktop version](https://www.figma.com/design/fSSgeJzTNcXmQTIc2DXkam/Codia-AI-Design--Screenshot-to-Editable-Figma-Design--Community-?node-id=0-1&t=wXPwsIrEjmuRFU75-1)
+
 <a href="./intro-web-dev/project-personal-portfolio/img/portfolio-mobile.png" target="_blank">Mobile Version</a>
 
 ## Guidelines

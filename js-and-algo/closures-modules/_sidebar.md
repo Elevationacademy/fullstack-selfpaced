@@ -1,0 +1,10 @@
+- Closures & Modules
+  - [Intro](./Intro.md "Closures & Modules")
+  - [What are Closures](./What-are-Closures-.md)
+  - [Closures and Memory](./Quick-Note-on-Closures-and-Memory-in-JS.md)
+  - [Spot-Check-1](./Spot-Check-1.md)
+  - [Modules](./Modules.md)
+  - [Spot-Check-2](./Spot-Check-2.md)
+  - [Closures & Modules](./Closures---Modules.md)
+  - [Spot-Check-3](./Spot-Check-3.md)
+  - [Exercises](./Exercises.md)

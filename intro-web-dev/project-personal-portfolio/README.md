@@ -25,7 +25,10 @@ Implement a responsive design that works on mobile and desktop based on the foll
 ## Guidelines
 - Use only vanilla HTML and CSS (no frameworks or libraries)
 - Use Flexbox for all major layout components
-- Make many git commits with meangful names. Looking at your commits on git will explain your progress
+- Make many git commits with meaningful names. Looking at your commits on git will explain your progress
+- e-mail and phone number should link and open mail app and phone app if available
+- In the mobile version clicking on the hamburger menu should open a vertical navbar with the same menu items. This vertical navbar should hide the content underneath (the home section)
+- Opening the hamburger menu can be done using JavaScript for adding/removing a class. It is not a must to implement the JavaScript part - you can simply manually add/remove a class from the HTML to validate that your menu works
 - When hovering the "Get in Touch" button it slightly changes the color
 
 ![hover button](./img/button-hover.gif ':size=150')

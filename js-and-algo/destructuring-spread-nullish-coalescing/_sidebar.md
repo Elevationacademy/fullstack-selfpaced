@@ -1,5 +1,5 @@
 - Destructuring, Spread & Nullish Coalescing
-  - [Destructuring, Spread & Nullish Coalescing](./Destructuring---Spread-and-Nullish-coalescing.md "Destructuring, Spread & Nullish Coalescing")
+  - [Destructuring, Spread & Nullish Coalescing](./Intro.md "Destructuring, Spread & Nullish Coalescing")
   - [Destructuring Exercises](./Destructuring-Exercises.md "Destructuring Exercises")
   - [Spread Exercises](./Spread-Exercises.md "Spread Exercises")
   - [Nullish Coalescing Exercise](./Null-Coalescing-Exercises.md "Nullish Coalescing Exercise")

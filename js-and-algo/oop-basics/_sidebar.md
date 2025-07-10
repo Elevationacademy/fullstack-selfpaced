@@ -1,5 +1,5 @@
 - Object Oriented Programming Basics
-  - [OOP Intro Video](./OOP-Intro-Video.md "Object Oriented Programming Basics")
+  - [OOP Intro Video](./OOP-Intro-Video.md "OOP Basics")
   - [Intro](./Intro.md "Intro")
   - [Classes & Instantiation](./Classes---Instantiation.md "Classes & Instantiation")
   - [Spot Check 1](./Spot-Check-1.md "Spot Check 1")

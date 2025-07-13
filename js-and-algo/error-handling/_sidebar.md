@@ -1,2 +1,3 @@
 - Error Handling
   - [Exercises](./Exercises.md "Error Handling")
+  - [Pair Exercise](./Pair-Excercise.md)

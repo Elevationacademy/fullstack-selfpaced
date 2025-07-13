@@ -142,3 +142,36 @@ Goodbye!
 - Test each method individually before building the console interface
 - Remember that JavaScript objects work well for the `children` property
 - Handle case sensitivity consistently (consider converting to lowercase)
+
+## Bonus Extension - Ranked Suggestions
+
+Add usage tracking to your AutoComplete Trie so frequently used words appear first in suggestions, just like real autocomplete systems.
+
+### Requirements
+
+- `AutoCompleteTrie` will hold the frequency of each word
+- `predictWords(prefix)` will return results sorted by frequency.
+- `use <word>` - new console command that will increment usage count for a word in the dictionary
+- Add unit testis for new methods added.
+
+### Example Usage
+
+```bash
+> add cat
+✓ Added 'cat' to dictionary
+
+> add car
+✓ Added 'car' to dictionary
+
+> complete ca
+Suggestions for 'ca': cat (0), car (0)
+
+> use cat
+✓ Incremented usage for 'cat' (now 1)
+
+> use cat
+✓ Incremented usage for 'cat' (now 2)
+
+> complete ca
+Suggestions for 'ca': cat (2), car (0)
+```

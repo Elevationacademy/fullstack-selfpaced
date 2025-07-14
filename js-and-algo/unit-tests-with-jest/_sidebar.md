@@ -6,4 +6,5 @@
   - [Testing with Classes](./Testing-with-Classes.md "Testing with Classes")
   - [Test Driven Development (TDD)](./Test-Driven-Development--TDD-.md "Test Driven Development (TDD)")
   - [Exercises](./Exercises.md "Exercises")
+  - [Pair Exercises](./Pair-Exercise.md)
   - [expect(done) .toBeTruthy( )](./expect-done---toBeTruthy---.md "expect(done) .toBeTruthy( )")

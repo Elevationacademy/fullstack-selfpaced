@@ -1,4 +1,4 @@
-# Tweeter Project - Complete Guide
+# Tweeter Project
 
 ## Overview
 

@@ -4,4 +4,5 @@
   - [So Far](./So-Far.md "So Far")
   - [Async/Await](./Async-Await.md "Async/Await")
   - [Common Pitfalls](./Common-Pitfalls.md "Common Pitfalls")
+  - [Exercises](./Exercises.md "Exercises")
   - [End](./End.md "End")

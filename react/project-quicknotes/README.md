@@ -49,7 +49,9 @@ In this project you will need to create a notes app - add notes, change notes, d
 - Add a popup modal to show a note
 - When a note is clicked, the modal should show the note information
 - You can use this library: https://github.com/reactjs/react-modal
-- Or you can search for a different one if you like (if you use a UI library, it might have a modal component)
+- Or you can use Mantine's modal: https://mantine.dev/core/modal/
+- (you can also use Mantine to easily design other parts of your project)
+- Or any other library...
 
 ![](./img/step-4.gif)
 
@@ -67,6 +69,7 @@ In this project you will need to create a notes app - add notes, change notes, d
 
 - Make you application live on web via GitHub Pages
 - Read the documentation on how to create a production build and how to make available on GitHub Pages
+- For example here: https://levelup.gitconnected.com/deploy-your-vite-app-to-github-pages-a-lazy-devs-guide-37b0b472fa35
 
 ## Step 7
 

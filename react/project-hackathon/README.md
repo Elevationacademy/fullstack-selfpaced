@@ -42,6 +42,7 @@ Create a comprehensive (**but short**!) product document that includes:
 - Navigation flow - How users move between screens
 - DB plan for Supabase (tables and columns)
 - APIs planning to use
+- Extensions. Prepare a couple of extensions that you will implement only if time permits
 
 _For mockups we encourage you to simply use a paper and pencil for manually drawing the screens and add it as an image to the document. But, if you insist (and have some spare time...), you are welcome to explore the following recommended tools for mockups [miro](https://miro.com/), [mockflow](https://mockflow.com/) or any other tool you feel comfortable with._
 

@@ -48,6 +48,8 @@ _For mockups we encourage you to simply use a paper and pencil for manually draw
 
 Please, make it short but clear!
 
+Here is a [template](https://docs.google.com/document/d/1avCIAv9sYU3gV6e0CSJ10XdtJPkzM_jJrAStGFKdlUg/edit?tab=t.0) for the document.
+
 ## Step 3: Product Approval Meeting
 
 #### Deadline: Tuesday, 19/8

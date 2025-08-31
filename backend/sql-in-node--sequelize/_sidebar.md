@@ -1,0 +1,7 @@
+- SQL & Express - Sequelize
+  - [Intro & Setup](./Intro---Setup.md "SQL & Express - Sequelize")
+  - [Query](./Query.md "Query")
+  - [Inserting](./Inserting.md "Inserting")
+  - [Async Insert](./Async-Insert.md "Async Insert")
+  - [Split Lines](./Split-Lines.md "Split Lines")
+  - [Exercises](./Exercises.md "Exercises")

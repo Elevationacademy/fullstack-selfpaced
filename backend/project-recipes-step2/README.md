@@ -18,7 +18,6 @@ Enhance your Recipe API by migrating to MySQL with Sequelize, implementing user 
   password: String (hashed)
   firstName: String
   lastName: String
-  profileImage: String (file path)
   createdAt: Timestamp
   updatedAt: Timestamp
 }

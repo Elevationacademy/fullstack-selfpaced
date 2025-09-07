@@ -1,0 +1,8 @@
+- Deployment
+  - [Intro](./Intro.md "Deployment")
+  - [Setup](./Setup.md)
+  - [MongoDB Setup & Atlas](./MongoDB-Setup---Atlas.md)
+  - [Atlas & Connecting-the-App](./Atlas---Connecting-the-App.md)
+  - [App Configuration](./App-Configuration.md)
+  - [Deploying React to Render](./Deploying-React-to-Render.md)
+  - [Done](./Done.md)

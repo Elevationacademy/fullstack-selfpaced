@@ -1,5 +1,5 @@
-- Deployment
-  - [Intro](./Intro.md "Deployment")
+- Deployment (Render)
+  - [Intro](./Intro.md "Deployment (Render)")
   - [Setup](./Setup.md)
   - [MongoDB Setup & Atlas](./MongoDB-Setup---Atlas.md)
   - [Atlas & Connecting-the-App](./Atlas---Connecting-the-App.md)

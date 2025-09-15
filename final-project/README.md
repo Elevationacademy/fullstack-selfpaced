@@ -83,13 +83,13 @@ Implement your product and have fun! 😎
 Timeline:
 - Start working on project - Sunday, September 14th
 - Start development - Monday, September 15th
-- Feature close - Sunday EOD (end of day) September 28th
-- Bug fixes + Demo preparation - Monday, September 29th
-- Demo day - Tuesday, September 30th
+- Feature close - Sunday EOD (end of day) September 21st
+- Bug fixes + Demo preparation - Thursday, September 25th
+- Demo day - Sunday, September 28th
 
 ## Step 6: Demo Day
 
-#### ?Tuesday, 30/8?
+#### Sunday, 28/9
 
 Demo Structure - **7min** Demo + 3min Q&A
 

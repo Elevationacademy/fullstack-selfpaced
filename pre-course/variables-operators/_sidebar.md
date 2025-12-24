@@ -1,0 +1,7 @@
+- Variables & Operators
+  - [Intro](./Intro.md "Intro")
+  - [Setup](./Setup.md "Setup")
+  - [Variables](./Variables.md "Variables")
+  - [Operators](./Operators.md "Operators")
+  - [Done](./Done.md "Done")
+  - [Exercises](./Exercises.md "Exercises")

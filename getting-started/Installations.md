@@ -6,17 +6,14 @@ We are excited to see you here! 🤩 Getting all ready for this unique oppurtuni
 
 Please go ahead and make sure that the following is installed on your laptop.
 
-## Visual Studio Code
-This is the IDE we will be using during the bootcamp. It is the most popular IDE in the world.
+## Google Antigravity
+This is the IDE we will be using during the bootcamp. It is a fork of Visual Studio Code.
 
-Download it [here](https://code.visualstudio.com/download).
+Download it [here](https://antigravity.google/download).
 
 #### Extensions
-VS Code has great extensions we will be using in our bootcamp. Start with installing the following ones:
+VS Code has great extensions we will be using in our bootcamp. Start with installing the following one:
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Local server for easily running websites locally
-- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Code formatter
-- [GitHub Copilt](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) - AI coding assistant
-- [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) - Adding nice icons to your files and folders
 
 ## Git
 Just like everyone, also we will be using git for version control. Download and install it from [here](https://git-scm.com/downloads).

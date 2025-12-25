@@ -2,7 +2,7 @@
 
 ## Exercise 1
 
--   Initialize a number variable called `numChildren` (if you're using `prompt`, you can let the value of `numChildren` come from user input).
+-   Initialize a number variable called `numChildren`.
 
   
 

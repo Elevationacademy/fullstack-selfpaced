@@ -1,6 +1,5 @@
 - Conditionals
   - [Intro](./Intro.md "Conditionals")
   - [Conditional Statements](./Conditional-Statements.md "Conditional Statements")
-  - [Prompt](./Prompt.md "Prompt")
   - [Done](./Done.md "Done")
   - [Exercises](./Exercises.md "Exercises")

@@ -1,5 +1,5 @@
 - Objects
-  - [Intro](./Intro.md "Intro")
+  - [Intro](./Intro.md "Objects")
   - [Objects](./Objects.md "Objects")
   - [Spot Check](./Spot-Check.md "Spot Check")
   - [Dot Notation vs. Bracket Notation](./Dot-Notation-vs--Bracket-Notation.md "Dot Notation vs. Bracket Notation")

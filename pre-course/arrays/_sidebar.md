@@ -1,5 +1,5 @@
 - Arrays
-  - [Intro](./Intro.md "Intro")
+  - [Intro](./Intro.md "Arrays")
   - [Arrays](./Arrays.md "Arrays")
   - [Veriables From Arrays](./Veriables-From-Arrays.md "Veriables From Arrays")
   - [Updating and Adding to Arrays](./Updating-and-Adding-to-Arrays.md "Updating and Adding to Arrays")

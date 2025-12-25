@@ -1,5 +1,5 @@
 - Loops
-  - [Intro](./Intro.md "Intro")
+  - [Intro](./Intro.md "Loops")
   - [For... In](./For-In.md "For... In")
   - [For... of](./For-Of.md "For... of")
   - [While](./While.md "While")

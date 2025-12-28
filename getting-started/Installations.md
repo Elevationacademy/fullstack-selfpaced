@@ -11,6 +11,11 @@ This is the IDE we will be using during the bootcamp. It is a fork of Visual Stu
 
 Download it [here](https://antigravity.google/download).
 
+For the beginning of the bootcamp you should turn off the AI autocomplete in Antigravity Settings so you will be able to solve exercises on your own.
+
+![](./img/autocomplete-off.png)
+
+
 #### Extensions
 VS Code has great extensions we will be using in our bootcamp. Start with installing the following one:
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Local server for easily running websites locally

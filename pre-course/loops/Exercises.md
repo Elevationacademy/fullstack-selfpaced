@@ -111,7 +111,7 @@ Note that this is _different_ from Exercise 1 ;)
 
 ## Exercise 9
 
-**==≡==** The following exercises are a little more challenging - but this is a good chance to practice your programmer's mind. **==≡==**
+The following exercises are a little more challenging - but this is a good chance to practice your programmer's mind.
 
   
 

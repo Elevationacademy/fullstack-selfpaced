@@ -80,19 +80,11 @@ const reservations = {
   Ted: { claimed: true }
 }
 
-const name = prompt('Please enter the name for your reservation');
+const name = // Initialize different names to test the code
 ```
   
 
-Note that `prompt` will show a popup on your screen and allow you to input some text - that text will be stored inside `name`
-
-  
-
 The above code is a reservation system where people can claim their reservations when they arrive.
-
-  
-
-After receiving the name from the `prompt`,
 
   
 
@@ -111,9 +103,6 @@ Use 'Bob' and 'Ted' to test your code:
 -   If you try a different name, it should say "You have no reservation"
 
   
-
-**Note:** Definitely upload this code to Github, you might want to use it later on ;)
-
 ### Exercise 5.1
 It so happens that our restaurant has a bunch of open tables.
 

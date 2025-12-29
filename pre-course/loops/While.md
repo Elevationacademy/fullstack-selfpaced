@@ -23,7 +23,7 @@ while(timer < 10){
 
 That code above is saying "while timer is less than 10, console log the timer."
   
-Sounds good, but the value of `timer` is 0 - and it never changes! Therefore this loop will run forever (and freeze/crash your browser if you try it)
+Sounds good, but the value of `timer` is 0 - and it never changes! Therefore this loop will run forever (and freeze/crash your terminal if you try it)
 
 Instead, to **break the loop**, the code should look like this:
 

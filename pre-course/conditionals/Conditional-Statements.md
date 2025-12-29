@@ -190,7 +190,7 @@ let hasJob = true
 ```
   
 
-Think about this, write it out, test it in the browser, then peek at [this solution](https://codepen.io/ElevationPen/pen/wbZYex?editors=0010).
+Think about this, write it out, test it, then peek at [this solution](https://codepen.io/ElevationPen/pen/wbZYex?editors=0010).
 
 You can nest `if`s without end, but eventually it becomes very ugly and hard to maintain - avoid nesting too deep in general.
 

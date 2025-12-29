@@ -33,7 +33,7 @@ console.log(country)
 ```
   
 
-Then when you open up the console in the browser (after saving the file and refreshing the page), you will see "Djibouti" in the output.
+Then when take a look at the terminal, you will see "Djibouti" in the output.
 
   
 

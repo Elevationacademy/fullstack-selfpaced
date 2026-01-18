@@ -74,7 +74,7 @@ let inventory = [
     { name: "Headphones", price: 149.99, quantity: 6 }
 ]
 ```
-Expected Output: `10849.56`
+Expected Output: `7089.66`
 
 ## Exercise 9
 

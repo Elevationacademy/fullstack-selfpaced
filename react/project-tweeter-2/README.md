@@ -23,7 +23,7 @@
 
 - Fetch (GET) and create (POST) tweets with the following API endpoint: 
 ```bash
-https://uckmgdznnsnusvmyfvsb.supabase.co/rest/v1/Tweets?apikey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InVja21nZHpubnNudXN2bXlmdnNiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTQ0ODU5NjAsImV4cCI6MjA3MDA2MTk2MH0.D82S0DBivlsXCCAdpTRB3YqLqTOIP7MUj-p1R8Lj9Jo
+https://agsaphbcwazvuenwsnca.supabase.co/rest/v1/Tweets?apikey=sb_publishable_3kTDeTVg6NfWrboe7oMopA_X-cuT_ih
 ```
 - The server has one resource exposed: "/tweet", make requests to presenting the list of tweets, and to create a new tweet
 - The tweet object is as follows: { content: string, userName: string, date: string (ISO date) }

@@ -21,7 +21,7 @@ Your project **MUST** incorporate the following technologies and concepts from t
 
 ## Step 1: Team Formation
 
-#### Deadline: EOD Sunday, 17/8
+#### Deadline: EOD Monday, 16/2
 
 Assemble a team of 3 members and update the course TA.
 
@@ -32,7 +32,7 @@ It might make sense that internally you will define the following roles in your 
 
 ## Step 2: Product Document 
 
-#### Deadline: EOD Monday, 18/8
+#### Deadline: EOD Tuesday, 17/2
 
 Create a comprehensive (**but short**!) product document that includes:
 - Short product description
@@ -52,25 +52,25 @@ Here is a [template](https://docs.google.com/document/d/1avCIAv9sYU3gV6e0CSJ10Xd
 
 ## Step 3: Product Approval Meeting
 
-#### Deadline: Tuesday, 19/8
+#### Deadline: Wednesday, 18/2
 
 Schedule a 15 minute meeting with the instructor and TA to present your proposal and get feedback. You should incorporate the feedback and send the final version of the document to the team.
 
 ## Step 4: Development Planning
 
-#### Deadline: EOD Tuesday, 19/8
+#### Deadline: Wednesday, 18/2
 
 Create a detailed development plan using [Trello](https://trello.com/) (or equivalent project management tool). Send it to the TA for review and approval.
 
 ## Step 5 - Implementation Phase
 
-#### Duration: Wednesday and Thursday, 20-21/8
+#### Duration: Wednesday to Sunday, 18-22/2
 
 Implement your product and have fun! 😎
 
 ## Step 6 - Demo Day
 
-#### Sunday, 24/8
+#### Sunday, 22/2
 
 Suggested Demo Structure (10 - 15 min)
 - Product overview and problem statement

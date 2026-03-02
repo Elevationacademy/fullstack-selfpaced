@@ -1,0 +1,5 @@
+- PostgreSQL Setup
+  - [Intro](./Intro.md "PostgreSQL Setup")
+  - [Download, Install, and Run PostgreSQL](./Download--Install--and-Run-PostgreSQL.md "Download, Install, and Run PostgreSQL")
+  - [VS Code Setup](./VS-Code-Setup.md "VS Code Setup")
+  - [First Table Validation](./First-Table-Validation.md "First Table Validation")

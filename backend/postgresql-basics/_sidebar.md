@@ -1,5 +1,5 @@
-- PostgreSQL Intro
-  - [PostgreSQL Intro Lecture](./SQL-Intro-Lecture.md "PostgreSQL Intro")
+- PostgreSQL Basics
+  - [PostgreSQL Basics Lecture](./SQL-Intro-Lecture.md "PostgreSQL Basics")
   - [Intro](./Intro.md "Intro")
   - [Tables](./Tables.md "Tables")
   - [Storing Data](./Storing-Data.md "Storing Data")

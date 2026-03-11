@@ -39,8 +39,9 @@ We want to encourage you to create an innovative final project. Although CRUD op
 ?> Usually, external integrations (APIs, AI, MCP), gives a boost of creativity and "superpowers" to our application
 
 ## Step 1: Team Formation
+**_Deadline: Sunday, March 15th_**
 
-Assemble a team of 3 members and update the course TA.
+Assemble a team of 2-3 members and update the course TA.
 
 It might make sense that internally you will define the following roles in your team (it's up to you):
 - Product Lead - Focuses on UX/UI and product direction
@@ -49,6 +50,7 @@ It might make sense that internally you will define the following roles in your 
 - Integration Lead - Focuses on integrating with external systems (APIs, AI, etc.), integration of client and server and deployment
 
 ## Step 2: Product Document 
+**_Deadline: Wednesday, March 18th_**
 
 Create a comprehensive (**but short**!) product document that includes:
 - Team members and roles
@@ -69,6 +71,7 @@ Please, make it short but clear!
 Here is a [template](https://docs.google.com/document/d/1wTmyu4yT1ObzQqkKOUWbwSpF5uga_Lhfi4r85h2AKlg/edit?usp=sharing) for the document.
 
 ## Step 3: Product Approval Meeting
+**_Deadline: Thursday, March 19th_**
 
 Schedule a 15 minute meeting with the instructor or TA to present your proposal and get feedback. You should incorporate the feedback and send the final version of the document to the team.
 
@@ -81,15 +84,14 @@ Create a detailed development plan using [Trello](https://trello.com/) (or equiv
 Implement your product and have fun! 😎
 
 Timeline:
-- Start working on project - Sunday, September 14th
-- Start development - Monday, September 15th
-- Feature close - Sunday EOD (end of day) September 21st
-- Bug fixes + Demo preparation - Thursday, September 25th
-- Demo day - Sunday, September 28th
+- Start development - Thursday, March 19th
+- Feature close - Sunday EOD (end of day) March 29th
+- Bug fixes + Demo preparation - Monday, March 30th
+- Demo day - Tuesday, March 31st
 
 ## Step 6: Demo Day
 
-#### Sunday, 28/9
+#### Tuesday, March 31st
 
 Demo Structure - **7min** Demo + 3min Q&A
 

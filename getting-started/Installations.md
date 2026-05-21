@@ -6,19 +6,23 @@ We are excited to see you here! 🤩 Getting all ready for this unique oppurtuni
 
 Please go ahead and make sure that the following is installed on your laptop.
 
-## Google Antigravity
-This is the IDE we will be using during the bootcamp. It is a fork of Visual Studio Code.
+## Visual Studio Code
+This is the IDE we will be using during the bootcamp. It is the most popular IDE in the world.
 
-Download it [here](https://antigravity.google/download).
+Download it [here](https://code.visualstudio.com/download).
 
-For the beginning of the bootcamp you should turn off the AI autocomplete in Antigravity Settings so you will be able to solve exercises on your own.
+For the beginning of the bootcamp you should disable GitHub Copilot's (or any other Agentic AI) inline suggestions so you will be able to solve exercises on your own.
 
-![](./img/autocomplete-off.png)
-
+To do this, open your VS Code settings (CMD+, on Mac / CTRL+, on Windows), search for **"Copilot"**, and under **"Enable/Disable Copilot completions by language"**, turn off inline suggestions for the following languages:
+- `html`
+- `css`
+- `javascript`
 
 #### Extensions
-VS Code has great extensions we will be using in our bootcamp. Start with installing the following one:
+VS Code has great extensions we will be using in our bootcamp. Start with installing the following ones:
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Local server for easily running websites locally
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Code formatter
+- [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) - Adding nice icons to your files and folders
 
 ## Git
 Just like everyone, also we will be using git for version control. Download and install it from [here](https://git-scm.com/downloads).

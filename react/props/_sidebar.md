@@ -11,4 +11,4 @@
   - [Spot Check 4](./Spot-Check-4.md "Spot Check 4")
   - [Spot Check 5](./Spot-Check-5.md "Spot Check 5")
   - [Data Flow](./Data-Flow.md "Data Flow")
-  - [Summery](./Summery.md "Summery")
+  - [Summary](./Summary.md "Summary")

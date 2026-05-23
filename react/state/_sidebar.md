@@ -12,5 +12,5 @@
   - [Common Pitfalls](./Common-Pitfalls.md "Common Pitfalls")
   - [Spot Check 5](./Spot-Check-5.md "Spot Check 5")
   - [Note About State & Props](./Note-About-State---Props.md "Note About State & Props")
-  - [Summery](./Summery.md "Summery")
+  - [Summary](./Summary.md "Summary")
   - [Exercises](./Exercises.md "Exercises")

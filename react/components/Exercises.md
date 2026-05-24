@@ -1,8 +1,8 @@
 # Exercises
 
-Go to this [GitHub repo](https://github.com/Elevationacademy/react-components-exercise) **fork** it, and then **clone** it.
+Go to this [GitHub repo](https://github.com/Elevationacademy/react-components-exercise-new) **fork** it, and then **clone** it.
 
-**Note:** This repo was created with the deprecated `create-react-app` build tool. After you fork and clone the repo you need to run `npm install` just like a `vite` application. But in order to run the application you need to run `npm start`. 
+<!-- **Note:** This repo was created with the deprecated `create-react-app` build tool. After you fork and clone the repo you need to run `npm install` just like a `vite` application. But in order to run the application you need to run `npm start`.  -->
 
 ## Exercise 1
 

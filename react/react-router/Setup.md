@@ -17,7 +17,7 @@ Ultimately, our directory will look something like
 It's a desciprition of a charm!.
 make sure to **pay attention to the route** on top - see how it matches up with each page. For example, when the route is `http://localhost:3001/wiki/charms/Accio` - we're on the page with all the details about the charm Accio.
 
-So for now, to save you the boring stuff, **go ahead and fork & clone** [**this repo**](https://github.com/Elevationacademy/hogwart-template) - part of this lesson will be a code-along that sets up the final exercises - so you must **complete the code throughout the lesson**.
+So for now, to save you the boring stuff, **go ahead and fork & clone** [**this repo**](https://github.com/Elevationacademy/hogwart-template-new) - part of this lesson will be a code-along that sets up the final exercises - so you must **complete the code throughout the lesson**.
 
   
 

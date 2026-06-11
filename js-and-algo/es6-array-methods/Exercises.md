@@ -91,7 +91,7 @@ Input example:
 let studentScores = [92, 87, 76, 95, 88, 72, 91, 83, 79, 96, 85, 74, 89, 93, 81]
 ```
 
-Expected Output: `{ A: 5, B: 7, C: 3, F: 0 }`
+Expected Output: `{ A: 5, B: 6, C: 4, F: 0 }`
 
 ## Exercise 10
 

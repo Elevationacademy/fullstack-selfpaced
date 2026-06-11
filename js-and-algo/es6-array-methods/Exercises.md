@@ -113,5 +113,5 @@ let taxRates = {
     food: 0.05        // 5% tax
 }
 ```
-Expected Output: `1621.3292`
+Expected Output: `1,677.87`
 _Should return a single number representing the total cost with tax included._

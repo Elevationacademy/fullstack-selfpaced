@@ -8,7 +8,7 @@ Your project **MUST** incorporate the following technologies and concepts from t
 
 - Forms (Controlled Components)
 - React Router
-- State Management
+- State Management (MobX)
 - Authentication & Authorization
 - API Calls
 - Supabase Backend
@@ -21,9 +21,9 @@ Your project **MUST** incorporate the following technologies and concepts from t
 
 ## Step 1: Team Formation
 
-#### Deadline: EOD Monday, 16/2
+#### Deadline: EOD Tuesday, 7/7
 
-Assemble a team of 3 members and update the course TA.
+Assemble a team of 2-3 members and update the course TA.
 
 It might make sense that internally you will define the following roles in your team (it's up to you):
 - Product Lead - Focuses on UX/UI and product direction
@@ -32,7 +32,7 @@ It might make sense that internally you will define the following roles in your 
 
 ## Step 2: Product Document 
 
-#### Deadline: EOD Tuesday, 17/2
+#### Deadline: EOD Wednesday, 8/7
 
 Create a comprehensive (**but short**!) product document that includes:
 - Short product description
@@ -52,25 +52,25 @@ Here is a [template](https://docs.google.com/document/d/1avCIAv9sYU3gV6e0CSJ10Xd
 
 ## Step 3: Product Approval Meeting
 
-#### Deadline: Wednesday, 18/2
+#### Deadline: Thursday Morning, 9/7
 
 Schedule a 15 minute meeting with the instructor and TA to present your proposal and get feedback. You should incorporate the feedback and send the final version of the document to the team.
 
 ## Step 4: Development Planning
 
-#### Deadline: Wednesday, 18/2
+#### Deadline: Thursday, 9/7
 
 Create a detailed development plan using [Trello](https://trello.com/) (or equivalent project management tool). Send it to the TA for review and approval.
 
 ## Step 5 - Implementation Phase
 
-#### Duration: Wednesday to Sunday, 18-22/2
+#### Duration: Thursday to Tuesday, 9-14/7
 
 Implement your product and have fun! 😎
 
 ## Step 6 - Demo Day
 
-#### Sunday, 22/2
+#### Tuesday, 14/7
 
 Suggested Demo Structure (10 - 15 min)
 - Product overview and problem statement

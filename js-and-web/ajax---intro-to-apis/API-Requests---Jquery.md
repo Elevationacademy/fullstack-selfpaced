@@ -48,7 +48,13 @@ The kind of requests in which we're interested right now, though, are more focus
 
 You've just made an API request! In particular, you made a request to the **Google Books API**. You've requested data about a book with an ISBN (special identifier for books) of `0439023521` - and you received!
 
-  
+> **If you hit rate limits (429s) or need more quota:**
+> 1. Go to console.cloud.google.com
+> 1. Create a project (or use an existing one)
+> 1. Enable the Books API under "APIs & Services → Library"
+> 1. Create an API key under "APIs & Services → Credentials"
+> 1. Append it to your requests:
+> `https://www.googleapis.com/books/v1/volumes?q=isbn:0439023521&key=YOUR_API_KEY`
 
 Notice that the URL we went to in order to receive this data has `/books/v1/volumes`... - that's the **interface** we were talking about before. In order to get the data from Google's server, we must adhere to their rules: _You want books data? Go to_ _`/books/v1`...__._
 

@@ -1,8 +1,8 @@
 # Creating a Store & Observables
 
-Go to this [GitHub repo](https://github.com/Elevationacademy/mobx-1-lesson-exercises-updated) **fork** it, and then **clone** it.
+Go to this [GitHub repo](https://github.com/Elevationacademy/mobx-1-lession-exercises-updated-vite) **fork** it, and then **clone** it.
 
-Don't forget to run `npm install` and then `npm start`  
+Don't forget to run `npm install` and then `npm run dev`  
 
 ----------
 

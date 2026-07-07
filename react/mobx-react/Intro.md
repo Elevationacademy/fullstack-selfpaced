@@ -14,4 +14,4 @@ This lesson will cover:
 
   
 
-To start with fork and clone [this starter repo](https://github.com/Elevationacademy/mobx-2-lesson-exercises-updated). It's the set up for a simple reservations manager. We'll go over the code in it and add on to it!
+To start with fork and clone [this starter repo](https://github.com/Elevationacademy/mobx-2-lession-exercises-updated-vite). It's the set up for a simple reservations manager. We'll go over the code in it and add on to it!

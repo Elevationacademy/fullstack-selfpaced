@@ -38,7 +38,6 @@ We want to encourage you to create an innovative final project. Although CRUD op
 - **Context-Aware Customer Support Bot.** Build a RAG-powered support agent trained on a product's documentation and FAQ. The agent maintains conversation memory, escalates confidently when it doesn't know something, and logs unanswered questions for a human to review — closing the feedback loop.
 - **AI Job Application Coach.** Paste a job description and upload your CV to get tailored cover letters, gap analysis, and interview prep questions. An AI agent iterates on your responses, scores your answers, and tracks your progress across multiple applications over time.
 - **Smart Meeting Summarizer & Action Tracker.** Upload or record meeting audio/transcripts. AI extracts decisions, action items, and owners — then pushes them to a task board. A follow-up agent nudges participants and updates item status as replies come in.
-- 
 
 ?> Usually, external integrations (APIs, and/or AI - RAG, Agents), gives a boost of creativity and "superpowers" to our application. 
 

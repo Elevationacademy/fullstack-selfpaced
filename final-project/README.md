@@ -35,11 +35,15 @@ We want to encourage you to create an innovative final project. Although CRUD op
 - **AI-Powered Travel Blog Generator.** Upload trip photos to auto-generate a chronological travel blog with map integration. AI extracts location data, suggests descriptions, and creates narrative flow. Users can edit and enhance the generated content.
 - **Intelligent Code Review Bot.** GitHub integration that uses AI to analyze student code submissions. Identifies common patterns, suggests improvements, and generates class-wide feedback reports for instructors.
 - **Smart WhatsApp Group Assistant.** AI bot that monitors group conversations, answers recurring questions, and maintains conversation context. Can schedule events, track shared expenses, or provide group analytics.
+- **Context-Aware Customer Support Bot.** Build a RAG-powered support agent trained on a product's documentation and FAQ. The agent maintains conversation memory, escalates confidently when it doesn't know something, and logs unanswered questions for a human to review — closing the feedback loop.
+- **AI Job Application Coach.** Paste a job description and upload your CV to get tailored cover letters, gap analysis, and interview prep questions. An AI agent iterates on your responses, scores your answers, and tracks your progress across multiple applications over time.
+- **Smart Meeting Summarizer & Action Tracker.** Upload or record meeting audio/transcripts. AI extracts decisions, action items, and owners — then pushes them to a task board. A follow-up agent nudges participants and updates item status as replies come in.
+- 
 
-?> Usually, external integrations (APIs, AI, MCP), gives a boost of creativity and "superpowers" to our application
+?> Usually, external integrations (APIs, and/or AI - RAG, Agents), gives a boost of creativity and "superpowers" to our application. 
 
 ## Step 1: Team Formation
-**_Deadline: Sunday, March 15th_**
+**_Deadline: Tuesday, August 4th_**
 
 Assemble a team of 2-3 members and update the course TA.
 
@@ -50,7 +54,7 @@ It might make sense that internally you will define the following roles in your 
 - Integration Lead - Focuses on integrating with external systems (APIs, AI, etc.), integration of client and server and deployment
 
 ## Step 2: Product Document 
-**_Deadline: Wednesday, March 18th_**
+**_Deadline: Thursday, August 5th_**
 
 Create a comprehensive (**but short**!) product document that includes:
 - Team members and roles
@@ -71,7 +75,7 @@ Please, make it short but clear!
 Here is a [template](https://docs.google.com/document/d/1wTmyu4yT1ObzQqkKOUWbwSpF5uga_Lhfi4r85h2AKlg/edit?usp=sharing) for the document.
 
 ## Step 3: Product Approval Meeting
-**_Deadline: Thursday, March 19th_**
+**_Deadline: Sunday, August 9th_**
 
 Schedule a 15 minute meeting with the instructor or TA to present your proposal and get feedback. You should incorporate the feedback and send the final version of the document to the team.
 
@@ -84,14 +88,14 @@ Create a detailed development plan using [Trello](https://trello.com/) (or equiv
 Implement your product and have fun! 😎
 
 Timeline:
-- Start development - Thursday, March 19th
-- Feature close - Sunday EOD (end of day) March 29th
-- Bug fixes + Demo preparation - Monday, March 30th
-- Demo day - Tuesday, March 31st
+- Start development - Sunday, August 9th
+- Feature close - Wednesday EOD (end of day) August 19th
+- Bug fixes + Demo preparation - Thursday, August 20th
+- Demo day - ?
 
 ## Step 6: Demo Day
 
-#### Tuesday, March 31st
+#### Date ?
 
 Demo Structure - **7min** Demo + 3min Q&A
 
